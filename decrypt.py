@@ -1,6 +1,3 @@
-# Cormac Taylor
-# I pledge my honor that I have abided by the Stevens Honor System.
-
 file = open("encryptedData.txt", "r")
 lines = []
 
